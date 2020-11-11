@@ -1,0 +1,1 @@
+#define NUMERO_STD_INPUT 123
